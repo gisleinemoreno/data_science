@@ -18,9 +18,7 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 **Background in:** Python, Machine Learning, Data Analytics.
 
 **Links:**
-* [Blog](https://sigmoidal.ai)
 * [LinkedIn](www.linkedin.com/in/gisleinemoreno)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
