@@ -11,10 +11,9 @@ Projetos em python
 # Gisleine Moreno
 <sub>* Gestora da Equipe de Tecnologia da Informação no Grupamento de Apoio de São Paulo na Aeronáutica *</sub>
 
-Atuando com gestão da área de tecnologia da informação, com habilidades analisticas, análise de dados, com forte capacidade de trabalho em equipe, e atenção aos detalhes dos dados.
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Atuando com gestão na área de tecnologia da informação, com habilidades analíticas, com capacidade de trabalho em equipe, e atenção aos detalhes dos dados na organização. Habilidades que foram desenvoldidas ao longo dos anos, e foram aplicadas as atividades exercidas.
 
-Sou formada em sistema de informação, com especialidade em Business Inteligence com Big Data na Impacta, com MBA em Inteligência artificial com Data Analytics no ICMC.
+Sou formada em sistemas de informação, com especialidade em Business Inteligence com Big Data na Faculdade Impacta, além de possuir MBA em Inteligência artificial com Data Analytics no ICMC.
 
 **Background in:** Python, Machine Learning, Data Analytics.
 
