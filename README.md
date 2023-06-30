@@ -11,7 +11,7 @@ Projetos em python
 # Gisleine Moreno
 <sub>* Gestora da Equipe de Tecnologia da Informação no Grupamento de Apoio de São Paulo na Aeronáutica *</sub>
 
-Atuando com gestão na área de tecnologia da informação, com habilidades analíticas, com capacidade de trabalho em equipe, e atenção aos detalhes dos dados na organização. Habilidades que foram desenvoldidas ao longo dos anos, e foram aplicadas as atividades exercidas.
+Atuando como gestora da área de tecnologia da informação e comunicação, com habilidades analíticas, capacidade de trabalho em equipe, e atenção aos detalhes dos dados na organização, produção de relatórios analíticos e resolução de problemas. O aprimoramento das minhas habilidades foi acontecendo ao longo dos anos, pois através de estudos e aprendizados, pude aplicar os conhecimentos nas tarefas exercidas durante minha trajetória profissional.
 
 Sou formada em sistemas de informação, com especialidade em Business Inteligence com Big Data na Faculdade Impacta, além de possuir MBA em Inteligência artificial com Data Analytics no ICMC.
 
