@@ -22,6 +22,10 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 
 
 ## Projetos:
+Python:
 * [Indian Unicorn startups](https://abrir.link/qHRtB)
+
+R
 * 
+----
 
