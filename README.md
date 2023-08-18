@@ -18,10 +18,10 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 **Background in:** Python, Machine Learning, Data Analytics.
 
 **Links:**
-* [LinkedIn](www.linkedin.com/in/gisleinemoreno)
+* [LinkedIn](linkedin.com/in/gisleinemoreno)
 
 
 ## Projetos:
-
+* [Indian Unicorn startups](https://abrir.link/qHRtB)
 ---
 
