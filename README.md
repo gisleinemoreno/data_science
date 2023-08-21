@@ -26,6 +26,6 @@ Python:
 * [Indian Unicorn startups](https://abrir.link/qHRtB)
 
 R:
-
+* [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
 ----
 
