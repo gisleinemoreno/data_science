@@ -28,7 +28,7 @@ Python:
 R:
 * [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
 
-PYSPARK e SQL:
-* [ANÁLISE DE RISCO NO TRANSPORTE PÚBLICO DE LONDRES](https://abrir.link/LlG6k)
+Spark e SQL:
+* [Análise de Risco no Transporte Público de Londres](https://abrir.link/LlG6k)
 ----
 
