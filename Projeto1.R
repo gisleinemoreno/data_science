@@ -1,5 +1,5 @@
 # Configurando o diretório de trabalho
-setwd("C:/Users/leo4s/Documents/Cursos/DSA/Cientista_de_dados/Big_Data_Analytics_R_M_Azure_Machine_Learning/Projeto_final/Projeto_1")
+setwd("/Projeto_final/ConsumoEnergia")
 getwd()
 
 # Carregando o pacote readr
