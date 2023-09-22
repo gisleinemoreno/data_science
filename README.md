@@ -23,8 +23,8 @@ Sou formada em sistemas de informação, com especialidade em Business Inteligen
 
 ## Projetos:
 Python:
-* [Análise dos dados e Previsão de Lucro para os anos seguintes - base de dados - Indian Unicorn startups](https://abrir.link/qHRtB)
-* [Agrupando clientes por Consumo de energia - KMeans - base de dados - Individual household electric power consumption ]
+* [Análise dos dados e Previsão de Lucro para os anos seguintes - Indian Unicorn startups](https://abrir.link/qHRtB)
+* [Agrupando clientes por Consumo de energia - KMeans - Individual household electric power consumption ]
 
 R:
 * [Prevendo o Consumo de Energia de Carros Elétricos](https://shre.ink/2drL)
