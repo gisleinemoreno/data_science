@@ -1,6 +1,6 @@
 ## Projetos de Data Science:
 Python:
-* [Análise dos dados e Previsão de Lucro para os anos seguintes - Indian Unicorn startups](https://abrir.link/qHRtB)
+* [Análise dos dados e Previsão de Lucro para os anos seguintes - Indian Unicorn startups]([https://abrir.link/qHRtB](https://github.com/gisleinemoreno/data_science/blob/main/Indian_Unicorn_startups_2023.ipynb))
 * [KMeans - Agrupando clientes por Consumo de energia - Individual household electric power consumption ](Mini-Projeto_AgrupandoClientesporConsumodeEnergia.pdf)
 
 R:
